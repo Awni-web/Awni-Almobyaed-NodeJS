@@ -1,0 +1,2 @@
+Another test file for word counting purposes.
+Special characters $ @ # & programming2021 good-morning

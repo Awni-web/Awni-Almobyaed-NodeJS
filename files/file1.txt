@@ -1,6 +1,2 @@
-AWNI
-Awni.ahmed
-awni3
-$awni$
-"AWni"
-awniawni
+Hello World! This is a test file. Welcome to Node.js programming.
+Some words : apple orange grape123 2021 open-source!
